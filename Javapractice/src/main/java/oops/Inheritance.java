@@ -14,7 +14,7 @@ public class Inheritance {
 		papu.cmethod();
 		papu.gfmethod();
 		papu.watch();
-		//papu.fmethod();
+		papu.fmethod();
 	}
 }
 	class GrandFather {
